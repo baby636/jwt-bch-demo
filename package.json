@@ -16,8 +16,8 @@
   "repository": "Permissionless-Software-Foundation/jwt-bch-demo",
   "dependencies": {
     "@psf/bch-js": "^4.17.1",
-    "axios": "^0.21.1",
-    "jwt-bch-lib": "^1.2.1"
+    "axios": "^0.21.3",
+    "jwt-bch-lib": "^1.3.0"
   },
   "devDependencies": {
     "eslint": "5.16.0",
