@@ -20,7 +20,7 @@
     "jwt-bch-lib": "^1.2.1"
   },
   "devDependencies": {
-    "eslint": "5.16.0",
+    "eslint": "9.15.0",
     "eslint-config-prettier": "^6.0.0",
     "eslint-config-standard": "^14.1.0",
     "eslint-plugin-node": "^9.1.0",
